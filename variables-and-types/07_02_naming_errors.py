@@ -7,3 +7,9 @@
 
 #finally = 1stvariable + second variable
 #print(finally)
+
+variable1 = 40
+variable2 = 2
+
+variable_sum = variable1 + variable2
+print(variable_sum)

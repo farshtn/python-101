@@ -2,3 +2,5 @@
 # with the help of string slicing.
 
 palindrome = "too bad i hid a boot"
+
+print(palindrome[-1:0:-1]+palindrome[0])

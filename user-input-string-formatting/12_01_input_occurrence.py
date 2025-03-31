@@ -4,3 +4,4 @@
 # String input: hello world
 # Letter input: o
 # Result: 4
+
