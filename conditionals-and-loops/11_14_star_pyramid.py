@@ -22,3 +22,10 @@
 # * * *
 #
 # HINT: Think of nested for loops!
+
+stars = 3
+
+for i in range(1,stars+1):
+    for j in range(i):
+        print("*",end=" ")
+    print()
