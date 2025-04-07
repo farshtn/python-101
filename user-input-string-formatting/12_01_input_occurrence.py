@@ -5,3 +5,6 @@
 # Letter input: o
 # Result: 4
 
+sentence = input("please write a sentence: ")
+letter = input("please write the letter you want to find the index of it's first occurrence: ")
+print(sentence.index(letter))
